@@ -53,8 +53,8 @@ const analyzeData = async () => {
   try {
     await axios.post(apiUrl, {
       id: 'rasp',
-      lat: 1,
-      lng: 1,
+      lat: 61.492636,
+      lng: 23.763342,
       devices: latestDevices.length * 3
     })
   } catch (e) {
