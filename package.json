@@ -1,0 +1,17 @@
+{
+  "name": "junction-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluetooth-scanner": "^1.0.1",
+    "dbus-native": "^0.2.5",
+    "noble": "^1.9.1"
+  }
+}
